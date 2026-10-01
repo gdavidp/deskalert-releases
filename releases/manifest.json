@@ -1,0 +1,8 @@
+{
+  "version": "2.0.0-pilot.7",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.7/DeskAlert-2.0.0-pilot.7.exe",
+  "sha256": "3214a54e848446c25a8dd057570a90d098e011b30304aa6599621453748d3351",
+  "size": 12701696,
+  "published_at": "2026-10-01T22:17:55Z",
+  "notes": "Self-update: Check for updates in the tray menu, automatic check every 6 hours; one-step linking."
+}
