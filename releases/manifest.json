@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-pilot.7",
-  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.7/DeskAlert-2.0.0-pilot.7.exe",
-  "sha256": "3214a54e848446c25a8dd057570a90d098e011b30304aa6599621453748d3351",
-  "size": 12701696,
-  "published_at": "2026-10-01T22:17:55Z",
-  "notes": "Self-update: Check for updates in the tray menu, automatic check every 6 hours; one-step linking."
+  "version": "2.0.0-pilot.8",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.8/DeskAlert-2.0.0-pilot.8.exe",
+  "sha256": "25e1ced52296077ffe72ed7247c7f01cc62025b515a1c958922759842fc9708e",
+  "size": 12718592,
+  "published_at": "2026-10-18T01:00:38Z",
+  "notes": "A crash or power loss right after Desk Alert saves its settings no longer stops it from starting. If its link is damaged, it recovers from a backup copy or asks to be linked again."
 }
