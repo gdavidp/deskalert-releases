@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-pilot.8",
-  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.8/DeskAlert-2.0.0-pilot.8.exe",
-  "sha256": "25e1ced52296077ffe72ed7247c7f01cc62025b515a1c958922759842fc9708e",
-  "size": 12718592,
-  "published_at": "2026-10-18T01:00:38Z",
-  "notes": "A crash or power loss right after Desk Alert saves its settings no longer stops it from starting. If its link is damaged, it recovers from a backup copy or asks to be linked again."
+  "version": "2.0.0-pilot.9",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.9/DeskAlert-2.0.0-pilot.9.exe",
+  "sha256": "68cbedcff42cfd80eae6eac6cb9d409753c69e4414ab16a6ae128eedac0852c3",
+  "size": 12718080,
+  "published_at": "2026-10-18T01:11:20Z",
+  "notes": "Installing an update from the tray now works, instead of stopping with 'Desk Alert is already running'."
 }
