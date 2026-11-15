@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-pilot.10",
-  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.10/DeskAlert-2.0.0-pilot.10.exe",
-  "sha256": "217cecc7fc79bcbb8b044dfce74f0377bb2f2950d0618814a4f89b48b87535ff",
-  "size": 12877312,
-  "published_at": "2026-11-15T16:41:13Z",
-  "notes": "Redesigned alert window (location first, What happened timeline, call-back panel), sound repeats until you acknowledge, connection health you cannot miss, Windows display language with a Language setting"
+  "version": "2.0.0-pilot.11",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.11/DeskAlert-2.0.0-pilot.11.exe",
+  "sha256": "e341a8d3bb2b44fa532a5507c8a331812b70057cefe09a6864f4d48023f54f95",
+  "size": 13557248,
+  "published_at": "2026-11-15T22:22:08Z",
+  "notes": "The alert window now uses WebView2, so screen readers can read the whole alert, and the classic window takes over automatically if WebView2 is missing, blocked or fails. A new Alert window menu in the tray shows which window is in use and offers Automatic or Classic. The header now reads \"Acknowledge if you are responding too.\""
 }
