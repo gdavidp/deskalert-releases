@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-pilot.9",
-  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.9/DeskAlert-2.0.0-pilot.9.exe",
-  "sha256": "68cbedcff42cfd80eae6eac6cb9d409753c69e4414ab16a6ae128eedac0852c3",
-  "size": 12718080,
-  "published_at": "2026-10-18T01:11:20Z",
-  "notes": "Installing an update from the tray now works, instead of stopping with 'Desk Alert is already running'."
+  "version": "2.0.0-pilot.10",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.10/DeskAlert-2.0.0-pilot.10.exe",
+  "sha256": "217cecc7fc79bcbb8b044dfce74f0377bb2f2950d0618814a4f89b48b87535ff",
+  "size": 12877312,
+  "published_at": "2026-11-15T16:41:13Z",
+  "notes": "Redesigned alert window (location first, What happened timeline, call-back panel), sound repeats until you acknowledge, connection health you cannot miss, Windows display language with a Language setting"
 }
