@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-pilot.14",
-  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.14/DeskAlert-2.0.0-pilot.14.exe",
-  "sha256": "e92e74b63f6d3661675818e4ee76de8e64675c3dbab28a6d554fb9f2aaa067b0",
-  "size": 13625344,
-  "published_at": "2026-11-16T15:55:30Z",
-  "notes": "An escalation for an alert already on screen now brings the window to the front and plays the alert sound once more (and the spoken announcement, if on) when you have not answered yet."
+  "version": "2.0.0-pilot.15",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.15/DeskAlert-2.0.0-pilot.15.exe",
+  "sha256": "9d33d85b956bf031502703c3bd14e4d01a8329bee1603f9b5440dc67e47b8c2a",
+  "size": 13742080,
+  "published_at": "2026-11-16T21:12:17Z",
+  "notes": "Floor plans: the alert window shows the plan with the caller's spot marked (PNG, JPEG, SVG), cached encrypted and refreshed every 15 minutes. Requires egw-console 2026.11.119 and egw-notify 1.3.0."
 }
