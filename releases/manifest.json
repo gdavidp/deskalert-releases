@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-pilot.12",
-  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.12/DeskAlert-2.0.0-pilot.12.exe",
-  "sha256": "50fd69c5aa25215008b6f96c8f7320a3ac54129e453af8a3fdd3a3190f203659",
-  "size": 13617152,
-  "published_at": "2026-11-15T23:45:52Z",
-  "notes": "Two answers replace Acknowledge: Responding, and Seen, not responding. Either stops your sound, and after Seen, not responding you can still change to Responding. The header shows who is responding, and an escalated call shows an ESCALATED band and each step in What happened. WebView2 now keeps its data in your local (non-roaming) profile."
+  "version": "2.0.0-pilot.13",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.13/DeskAlert-2.0.0-pilot.13.exe",
+  "sha256": "08567ef5b9f7e95690210071283ce5d2d686e1a029d3663d2eca995be118c7a5",
+  "size": 13617664,
+  "published_at": "2026-11-16T02:43:38Z",
+  "notes": "Windows version information on the exe (company, product, file and product version in Properties \u003e Details). No change in behaviour."
 }
