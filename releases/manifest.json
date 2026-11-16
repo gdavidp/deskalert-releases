@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-pilot.13",
-  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.13/DeskAlert-2.0.0-pilot.13.exe",
-  "sha256": "08567ef5b9f7e95690210071283ce5d2d686e1a029d3663d2eca995be118c7a5",
-  "size": 13617664,
-  "published_at": "2026-11-16T02:43:38Z",
-  "notes": "Windows version information on the exe (company, product, file and product version in Properties \u003e Details). No change in behaviour."
+  "version": "2.0.0-pilot.14",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.14/DeskAlert-2.0.0-pilot.14.exe",
+  "sha256": "e92e74b63f6d3661675818e4ee76de8e64675c3dbab28a6d554fb9f2aaa067b0",
+  "size": 13625344,
+  "published_at": "2026-11-16T15:55:30Z",
+  "notes": "An escalation for an alert already on screen now brings the window to the front and plays the alert sound once more (and the spoken announcement, if on) when you have not answered yet."
 }
