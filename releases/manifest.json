@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-pilot.15",
-  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.15/DeskAlert-2.0.0-pilot.15.exe",
-  "sha256": "9d33d85b956bf031502703c3bd14e4d01a8329bee1603f9b5440dc67e47b8c2a",
-  "size": 13742080,
-  "published_at": "2026-11-16T21:12:17Z",
-  "notes": "Floor plans: the alert window shows the plan with the caller's spot marked (PNG, JPEG, SVG), cached encrypted and refreshed every 15 minutes. Requires egw-console 2026.11.119 and egw-notify 1.3.0."
+  "version": "2.0.0-pilot.17",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.17/DeskAlert-2.0.0-pilot.17.exe",
+  "sha256": "9541a348978e568d152ae6a047c6192d915cb35fc7e34c9bae4f94ce06820a99",
+  "size": 14111744,
+  "published_at": "2026-11-17T19:46:21Z",
+  "notes": "Incident room: team messages, roster, quick messages, Resolved and Clear, Open incidents and presence in the tray. Uninstall no longer uses a helper process; release builds carry no build paths"
 }
