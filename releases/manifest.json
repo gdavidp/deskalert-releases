@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0-pilot.18",
-  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.18/DeskAlert.exe",
-  "sha256": "e6fd2cfba15fc5bc59d12a0224fd30c3a34e6a376bf68fc1ff985baa25a2e915",
-  "size": 14153728,
-  "published_at": "2026-11-18T03:57:09Z",
-  "notes": "Floor plans: the caller's area is always labelled with its ERL name, and clicking the plan opens a large zoomable Floor plan window"
+  "version": "2.0.0-pilot.19",
+  "url": "https://github.com/gdavidp/deskalert-releases/releases/download/v2.0.0-pilot.19/DeskAlert.exe",
+  "sha256": "4207a08754c4719c3c39e0c0df356f7854e85eb40726ad62eb31dc4acf01b43c",
+  "size": 14169368,
+  "published_at": "2026-11-18T04:46:19Z",
+  "notes": "Signed by the publisher (Authenticode through Microsoft), so Windows and antivirus can identify it; otherwise the same as pilot.18"
 }
